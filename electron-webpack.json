@@ -1,0 +1,3 @@
+{
+  "whiteListedModules": [ "react-hot-loader", "react-redux", "react-dom", "react-router-dom", "redux-form" ]
+}

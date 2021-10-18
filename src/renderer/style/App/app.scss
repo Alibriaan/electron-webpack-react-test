@@ -1,0 +1,22 @@
+#root {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#app {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  background: url('assets/img/layout-gradient.png')  center / cover no-repeat;
+}
+
+.root-glass-container {
+  width: 95vw;
+  max-width: 95vw;
+  height: 80vh;
+  overflow: hidden;
+}
